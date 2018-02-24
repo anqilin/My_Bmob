@@ -32,6 +32,8 @@ public class MainActivity extends AppCompatActivity {
     Button query;
     Button sendmessage;
     EditText message;
+    //ok
+    Button button1;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
