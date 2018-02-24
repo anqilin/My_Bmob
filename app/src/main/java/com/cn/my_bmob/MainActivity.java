@@ -33,6 +33,7 @@ public class MainActivity extends AppCompatActivity {
     Button sendmessage;
     EditText message;
     //ok
+    Button button2;
 
 
     @Override
